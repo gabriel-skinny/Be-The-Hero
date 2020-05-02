@@ -8,6 +8,12 @@ Um site que permite ongs postarem os seus casos para outras pessoas visualizaram
 - Criar novos casos para sua ONG
 - Deletar casos criados pela sua ONG
 
+
+## Tecnologias utilizadas
+- Node.js
+- ReactJS
+- SQlite
+
 ### Telas da aplicação
 
 Login                            
