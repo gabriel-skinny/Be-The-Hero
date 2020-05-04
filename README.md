@@ -10,9 +10,22 @@ Um site que permite ongs postarem os seus casos para outras pessoas visualizaram
 
 
 ## Tecnologias utilizadas
-- Node.js
-- ReactJS
-- SQlite
+
+#### Back-end:
+ 
+   -NodeJS
+
+   -Sqlite3
+
+   -Knex
+
+#### Front-end:
+
+   -ReactJs
+
+   -Axios
+ 
+
 
 ### Telas da aplicação
 
