@@ -13,38 +13,38 @@ Um site que permite ongs postarem os seus casos para outras pessoas visualizaram
 
 #### Back-end:
  
-   -NodeJS
+   - NodeJS
 
-   -Sqlite3
+   - Sqlite3
 
-   -Knex
+   - Knex
 
 #### Front-end:
 
-   -ReactJs
+   - ReactJs
 
-   -Axios
+   - Axios
  
 
 
-### Telas da aplicação
+## Telas da aplicação
 
-Login                            
+### Login                            
  
  ![](/images/Login.png)  
 
 
-Registro
+### Registro
 
 ![](/images/Registro.png)
 
 
-Casos cadastrados
+### Casos cadastrados
 
 ![](/images/Casos.png)
 
 
-Criação de novos casos
+### Criação de novos casos
 
 ![](/images/Novocaso.png)
 
